@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mrchenhj.
+- 👀 I'm interested in the software testing industry.
+- 🌱 I'm learning about software testing, such as functional testing and automated testing, and plan to find a suitable software testing job in the second half of 2022.
